@@ -2,4 +2,6 @@
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Sreenshots as a proof of completing this course can be seen in the screenshots directory
+
+[Under this link lies the first one](https://github.com/AlivkaRadkivska/nextjs-dashboard/blob/main/screenshots/doc_2024-06-01_18-14-15.png)
